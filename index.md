@@ -6,11 +6,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+
+
+#Carlos Burroughs' First CS 193 Lab
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-# CarlosBurroughs' first CS 193 Lab
+
 # Header 1
 ## Header 2
 ### Header 3
