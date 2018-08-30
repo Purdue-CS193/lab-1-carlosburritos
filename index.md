@@ -17,9 +17,6 @@ Syntax highlighted code block
 
 
 
-# Header 1
-## Header 2
-### Header 3
 
 
 - Air Conditioning
@@ -27,11 +24,7 @@ Syntax highlighted code block
 - I enjoy being inside and out of the sun
 - It's CS 193...what more do I need to say
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
